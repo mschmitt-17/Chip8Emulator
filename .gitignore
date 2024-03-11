@@ -1,0 +1,9 @@
+# ignore ch8 files
+*.ch8
+
+#ignore executables
+*.o
+*.out
+
+#ignore text
+*.txt
